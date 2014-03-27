@@ -1,3 +1,6 @@
 [submodule "Chef.tmbundle"]
 	path = Chef.tmbundle
 	url = https://github.com/drnic/Chef.tmbundle.git
+[submodule "ruby.tmbundle"]
+	path = ruby.tmbundle
+	url = https://github.com/textmate/ruby.tmbundle
