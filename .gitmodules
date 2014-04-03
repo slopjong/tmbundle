@@ -7,3 +7,6 @@
 [submodule "vagrant.tmbundle"]
 	path = vagrant.tmbundle
 	url = https://github.com/textmate/vagrant.tmbundle
+[submodule "coffee-script.tmbundle"]
+	path = coffee-script.tmbundle
+	url = https://github.com/textmate/coffee-script.tmbundle
