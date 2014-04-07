@@ -10,3 +10,6 @@
 [submodule "coffee-script.tmbundle"]
 	path = coffee-script.tmbundle
 	url = https://github.com/textmate/coffee-script.tmbundle
+[submodule "shellscript.tmbundle"]
+	path = shellscript.tmbundle
+	url = https://github.com/textmate/shellscript.tmbundle
